@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/status-evolving-brightblue)
 ![License](https://img.shields.io/badge/license-educational-lightgrey)
 
-> *a set of personal knowledge base for cloud and edge cloud computing*
+> *a set of personal knowledge base for cloud and edge cloud computing and beyond*
 
 ---
 

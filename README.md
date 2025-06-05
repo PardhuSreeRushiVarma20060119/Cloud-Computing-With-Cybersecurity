@@ -2,7 +2,7 @@
 ### *Cloud & Edge Cloud Computing Knowledge Base*
 
 ![Repo Type](https://img.shields.io/badge/type-personal%20knowledge%20base-blueviolet)
-![Focus](https://img.shields.io/badge/focus-cloud%20computing-brightred)
+![Focus](https://img.shields.io/badge/focus-cloud%20computing-red)
 ![Status](https://img.shields.io/badge/status-evolving-brightblue)
 ![License](https://img.shields.io/badge/license-educational-lightgrey)
 

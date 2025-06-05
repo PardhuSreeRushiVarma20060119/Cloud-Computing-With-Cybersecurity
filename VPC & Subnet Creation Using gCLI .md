@@ -26,7 +26,7 @@ A **subnet** is a range of IP addresses within a VPC network, assigned to specif
 
 The key difference between the two modes is that in **custom mode**, you define the exact size and range of each subnet. This allows for more fine-tuned control, especially useful in large, distributed systems.
 
-## **Step-by-Step Guide: Creating a VPC and Subnet in Google Cloud**
+## **Step-by-Step Lab Guide: Creating a VPC and Subnet in Google Cloud**
 
 ### **Step 1: Set Up Authentication and Configuration**
 

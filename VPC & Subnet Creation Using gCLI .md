@@ -1,5 +1,5 @@
 
-# **Google Cloud: VPC Network and Subnet Creation Using `gcloud` CLI**
+# **Google Cloud Lab Experiment: VPC Network and Subnet Creation Using `gcloud` CLI**
 
 ## **Introduction**
 Virtual Private Cloud (VPC) is a fundamental component of Google Cloud, providing a private network within Google’s global infrastructure. It allows users to define a network topology, configure IP address ranges, subnets, and manage routing policies. Google Cloud offers two types of subnet modes for VPC: **automatic** and **custom**. In this tutorial, we focus on the process of creating a custom VPC network and configuring subnets within it using the `gcloud` CLI.

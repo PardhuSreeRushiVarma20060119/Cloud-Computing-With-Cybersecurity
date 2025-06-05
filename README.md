@@ -27,7 +27,7 @@ This isn't a project—it's a **reference lab**, a **playground**, and a **docum
 ## 🗂️ Repository Structure
 
 ```
-MARE-Madness/
+Cloud-Computing-With-Cybersecurity/
 ├── 📁 cloud computing/                 → Cloud Computing
 ├── 📁 fog cloud computing/             → Fog Cloud Computing
 ├── 📁 edge cloud computing/            → Edge Cloud Computing

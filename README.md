@@ -2,8 +2,8 @@
 ### *Cloud & Edge Cloud Computing Knowledge Base*
 
 ![Repo Type](https://img.shields.io/badge/type-personal%20knowledge%20base-blueviolet)
-![Focus](https://img.shields.io/badge/focus-cloud-computing)
-![Status](https://img.shields.io/badge/status-evolving-brightgreen)
+![Focus](https://img.shields.io/badge/focus-cloud%20computing-brightred)
+![Status](https://img.shields.io/badge/status-evolving-brightblue)
 ![License](https://img.shields.io/badge/license-educational-lightgrey)
 
 > A personal vault of resources, experiments, case studies, insights and lil madness into the world of malware analysis and reverse engineering.

@@ -36,9 +36,5 @@ Cloud-Computing-With-Cybersecurity/
 └── 📄 README.md
 ```
 
-> Most folders contain `README.md` or markdown logs with detailed notes per activity or experiment.
-
-----
-
 > “Cloud is not just the future; it's the foundation of tomorrow”
 

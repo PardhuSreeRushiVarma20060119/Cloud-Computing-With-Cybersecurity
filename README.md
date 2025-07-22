@@ -28,14 +28,10 @@ This isn't a project—it's a **reference lab**, a **playground**, and a **docum
 
 ```
 Cloud-Computing-With-Cybersecurity/
-├── 📁 cloud computing/                 → Cloud Computing
-├── 📁 fog cloud computing/             → Fog Cloud Computing
-├── 📁 edge cloud computing/            → Edge Cloud Computing
-├── 📁 aws, gcp, azure cloud services/
+├── 📁 cloud computing/                 → Cloud Computing & etc.
+├── 📁 labs/   
 ├── 📁 tools/                           → Scripts, configs, automation helpers, cloud tools.
-├── 📁 CC with Security/                
-├── 📁 FCC with Security/
-├── 📁 ECC with Security/
+├── 📁 notes/   
 ├── 📁 resources/                       → PDF's, Books, Documents, Papers, Pages, News, Related to Cloud Computing & Security
 └── 📄 README.md
 ```

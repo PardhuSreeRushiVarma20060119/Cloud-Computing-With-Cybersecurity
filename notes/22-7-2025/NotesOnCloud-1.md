@@ -103,7 +103,10 @@ A fundamental aspect of cloud service models is the varying balance between **cu
 
 These distinct service models are not merely different ways to consume computing resources; they function as **strategic enablers for various facets of digital transformation**. SaaS facilitates the rapid adoption of critical business capabilities without significant IT investment, allowing organizations to quickly leverage new tools. PaaS and Serverless accelerate innovation and product cycles by providing agile development environments and abstracting infrastructure complexities, empowering developers to rapidly build and deploy new applications. IaaS, conversely, offers the foundational flexibility required for extensive infrastructure modernization or the development of highly customized solutions. Therefore, the selection of a cloud service model becomes a critical strategic decision, directly influencing a company's capacity for innovation, scalability, and competitive positioning within the digital economy.
 
+
 ---
+
+## 3.5 Cloud Service Models & Comparisons
 
 **Table 1: Cloud Service Models Comparison (IaaS, PaaS, SaaS)**
 
@@ -112,6 +115,69 @@ These distinct service models are not merely different ways to consume computing
 | **IaaS** | Provides virtualized computing resources (servers, storage, networking) over the internet. | Applications, Data, Runtime, Middleware, Operating System, Virtual Network Configuration | Physical Hardware, Virtualization, Servers, Storage, Networking | Network Architects, System Administrators | High control, Flexibility, Scalability | AWS EC2, Azure VMs, Google Compute Engine, DigitalOcean |
 | **PaaS** | Offers a ready-to-use environment for developing, testing, and deploying applications. | Applications, Data | Operating System, Middleware, Runtime, Physical Hardware, Virtualization, Servers, Storage, Networking | Developers, Application Teams | Rapid development, Streamlined workflows, Focus on coding | Google App Engine, Heroku, Azure App Services |
 | **SaaS** | Delivers fully developed software applications over the internet via a web browser. | Data, User Access Management | Applications, Data, Runtime, Middleware, Operating System, Virtual Network Configuration, Physical Hardware, Virtualization, Servers, Storage, Networking (everything else) | End-Users, Small Businesses, Startups | Ease of use, No installation/maintenance, Cost-reduction, Instant updates | Google Workspace, Salesforce, Microsoft 365, Zoom, Slack |
+
+
+---
+
+## 3.6 NIST Cloud Computing Reference Architecture (SP 500-292)
+
+The **National Institute of Standards and Technology (NIST)** developed a Cloud Computing Reference Architecture to define the key actors, activities, and functions for cloud computing environments.
+
+---
+
+#### 📌 Key Roles Defined by NIST
+
+| Role                | Description                                                                 |
+|---------------------|-----------------------------------------------------------------------------|
+| **Cloud Consumer**  | End user who consumes cloud services.                                       |
+| **Cloud Provider**  | Entity offering cloud services and infrastructure.                          |
+| **Cloud Auditor**   | Conducts independent assessments of cloud service controls and security.    |
+| **Cloud Broker**    | Manages service use, performance, and relationships between provider and consumer. |
+| **Cloud Carrier**   | Intermediary that provides connectivity and transport of services.          |
+
+---
+
+#### 🔧 Architecture Components
+
+- **Service Models:**
+  - *Infrastructure as a Service (IaaS)*
+  - *Platform as a Service (PaaS)*
+  - *Software as a Service (SaaS)*
+
+- **Deployment Models:**
+  - *Public Cloud*
+  - *Private Cloud*
+  - *Hybrid Cloud*
+  - *Community Cloud*
+
+- **Essential Characteristics:**
+  - On-demand self-service
+  - Broad network access
+  - Resource pooling
+  - Rapid elasticity
+  - Measured service
+
+---
+
+#### 🧩 NIST Cloud Reference Architecture Diagram
+
+```
++-------------------+         +----------------------+
+|   Cloud Consumer  |<------->|    Cloud Broker      |
++-------------------+         +----------------------+
+        ^                            |
+        |                            v
++-------------------+         +----------------------+
+|   Cloud Carrier   |<------->|   Cloud Provider     |
++-------------------+         +----------------------+
+                                     ^
+                                     |
+                          +----------------------+
+                          |    Cloud Auditor     |
+                          +----------------------+
+```
+
+> This architecture outlines the relationships and responsibilities between actors in the cloud computing environment, establishing clarity and control over security, interoperability, and service provisioning.
 
 ---
 
